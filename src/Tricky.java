@@ -5,7 +5,11 @@
 */
 
 // 1. Your predicted output 
- 
+// This is message1
+// This is message2
+// This is message1
+// Done with message2
+// Done with main
 
 public class Tricky {
     public static void main(String[] args) {
@@ -26,6 +30,8 @@ public class Tricky {
 }
 
 // 3. Were you correct? Explain any differences
+
+// All my predictions were correct 
  
  
 
